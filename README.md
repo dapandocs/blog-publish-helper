@@ -21,6 +21,6 @@
 #### 安装途径
 
 - [代码包安装](https://github.com/dapandocs/blog-publish-helper/archive/refs/heads/main.zip)
-- [crx安装]([https://github.com/dapandocs/blog-publish-helper/archive/refs/heads/main.zip](https://github.com/dapandocs/blog-publish-helper/releases/download/1.0.1/v1.0.1.crx.zip)
+- [crx安装](https://github.com/dapandocs/blog-publish-helper/archive/refs/heads/main.zip](https://github.com/dapandocs/blog-publish-helper/releases/download/1.0.1/v1.0.1.crx.zip)
 - [谷歌商店安装](https://chrome.google.com/webstore/detail/%E5%8D%9A%E5%AE%A2%E7%9B%B4%E8%BE%BE%E5%B0%8F%E5%8A%A9%E6%89%8B/iebednkhabpgaoepmjlmldjnnbdfgibf)
 #### 
